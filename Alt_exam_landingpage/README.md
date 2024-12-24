@@ -80,7 +80,7 @@ The project implementation is divided into three parts:
    - Configure storage (default: 8 GB).
    - Click on **Launch Instance**.
      
-![image of instance](Ec2instancesetup.png)
+![image of instance](./img/Ec2instancesetup.png)
 
 3. **Connect to the instance via SSH:**
    
@@ -179,8 +179,8 @@ paste the content of your own web page in this index.html file or simply delete 
 Registered a free domain using afraid.dns.
 
 and configure the public ipv4 address to the registred domain
-
-![DNS registration & config]()
+![DNS registration ](./img/DNSsetup1.png)
+![DNS registration & config](./img/Dnssetup2.png)
 
 
 ## Install Certbot for SSL
