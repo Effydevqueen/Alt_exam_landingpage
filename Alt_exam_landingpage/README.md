@@ -80,7 +80,7 @@ The project implementation is divided into three parts:
    - Configure storage (default: 8 GB).
    - Click on **Launch Instance**.
      
-![image of instance]()
+![image of instance](Ec2instancesetup.png)
 
 3. **Connect to the instance via SSH:**
    
